@@ -33,3 +33,7 @@ Paper and the corresponding source code for LiDAR SLAM
 
     Fast 3D Segmentation: https://github.com/VincentCheungM/Run_based_segmentation
     (Some innovation not implemented!)
+
+7)	<<LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain>> IROS 2018
+
+          Github: https://github.com/RobustFieldAutonomyLab/LeGO-LOAM
